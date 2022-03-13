@@ -1,0 +1,9 @@
+a.exe = comparing click latency between two mice, tells you the difference between RMB and LMB input
+
+l.exe = measures duration of left clicks
+
+r.exe = measures duration of right clicks
+
+old lr.exe = measures duration of both clicks and time between both clicks, also takes other non-main buttons and scroll wheel
+
+for all of these programs: click outside of the command prompt window otherwise they'll malfunction
